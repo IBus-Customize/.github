@@ -128,7 +128,7 @@
 
 <br>
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://aur.archlinux.org/css/archnavbar/aurlogo.png" alt="" width="234" height="54" scale="0"><br><figcaption>Submitted to <a href="https://aur.archlinux.org/packages/gnome-shell-extension-customize-ibus/">AUR</a> (Before Version 70)</figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://aur.archlinux.org/static/css/archnavbar/aurlogo.png" alt="" width="234" height="54" scale="0"><br><figcaption>Submitted to <a href="https://aur.archlinux.org/packages/gnome-shell-extension-customize-ibus/">AUR</a> (Before Version 70)</figcaption></figure></div>
 
 <hr class="wp-block-separator">
 
@@ -186,7 +186,7 @@
 
 <br>
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://aur.archlinux.org/css/archnavbar/aurlogo.png" alt="" width="255" height="59" scale="0"><br><figcaption>Submitted to <a href="https://aur.archlinux.org/packages/ibus-theme-tools">AUR</a> (Before Version 4.1.3)</figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://aur.archlinux.org/static/css/archnavbar/aurlogo.png" alt="" width="255" height="59" scale="0"><br><figcaption>Submitted to <a href="https://aur.archlinux.org/packages/ibus-theme-tools">AUR</a> (Before Version 4.1.3)</figcaption></figure></div>
 
 
 
@@ -226,6 +226,6 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" data-attachment-id="72" data-permalink="https://hollowmansblog.wordpress.com/125317599-b570b380-e36b-11eb-8565-f16f96a953d5/" data-orig-file="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png" data-orig-size="708,1076" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="125317599-b570b380-e36b-11eb-8565-f16f96a953d5" data-image-description="" data-image-caption="" data-medium-file="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=197" data-large-file="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=620" src="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=674" alt="" class="wp-image-72" width="460" height="697" srcset="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=460 460w, https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=99 99w" sizes="(max-width: 460px) 100vw, 460px"><br><figcaption><a href="https://github.com/ibus/ibus/pull/2327">Change Theme with GTK Themes PR</a> (Ready to be merged in IBus v1.5.26)</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" data-attachment-id="72" data-permalink="https://hollowmansblog.wordpress.com/125317599-b570b380-e36b-11eb-8565-f16f96a953d5/" data-orig-file="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png" data-orig-size="708,1076" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="125317599-b570b380-e36b-11eb-8565-f16f96a953d5" data-image-description="" data-image-caption="" data-medium-file="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=197" data-large-file="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=620" src="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=674" alt="" class="wp-image-72" width="460" height="697" srcset="https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=460 460w, https://hollowmansblog.files.wordpress.com/2021/08/125317599-b570b380-e36b-11eb-8565-f16f96a953d5.png?w=99 99w" sizes="(max-width: 460px) 100vw, 460px"><br><figcaption><a href="https://github.com/ibus/ibus/pull/2327">Change Theme with GTK Themes PR</a> (Merged for IBus v1.5.27)</figcaption></figure></div>
 
 </article>
